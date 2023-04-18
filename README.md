@@ -1,2 +1,2 @@
-# Major project Final Semester
+# Razorpay's clone demonstration
 Razorpay's clone demonstration
